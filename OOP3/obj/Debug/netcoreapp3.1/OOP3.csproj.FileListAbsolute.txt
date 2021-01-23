@@ -1,0 +1,13 @@
+C:\SOFTWARE\KAMP\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+C:\SOFTWARE\KAMP\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+C:\SOFTWARE\KAMP\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+C:\SOFTWARE\KAMP\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+C:\SOFTWARE\KAMP\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+C:\SOFTWARE\KAMP\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+C:\SOFTWARE\KAMP\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
